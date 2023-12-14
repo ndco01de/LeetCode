@@ -2,7 +2,7 @@ package solution;
 
 import util.TreeNode;
 
-public class Q101 {
+public class Q0101 {
 
 	private boolean helper(TreeNode p,TreeNode q) {
 		if (p == null && q == null)	return true;
